@@ -1,29 +1,35 @@
 {
   "title": "Memorial Balloon Festival",
   "description": "First Fruits Farm Memorial Balloon Festival",
-  "articles": [
+  "article1": [
     { 
         "id": "1", 
         "title": "About", 
-        "url": "https://github.com/bronelius/AppData/blob/main/images/Balloons.jpg?raw=true",
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/Balloons.jpg?raw=true",
         "body": "To remember our fallen military Heroes throughout the weekend in a real and deserving way via a safe and family-oriented event by creating a spirit of honor centered on Faith, Patriotism, Perseverance, Service, and Celebration."
-    },
+    }
+  ],
+  "article2": [
     { 
-        "id": "2", 
+        "id": "1", 
         "title": "Event Info", 
-        "url": "https://github.com/bronelius/AppData/blob/main/images/Fireworks.jpg?raw=true",
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/Fireworks.jpg?raw=true",
         "body": "This festival is an all-outdoor event on a live working farm. We feature open pasture, lakes, and ponds connected by dirt, gravel, and grass roads. The roads feature all the bumps and holes and divots one should expect on a farm. There are no paved or smooth roads or pastures."
-    },
+    }
+  ],
+  "article3": [
     { 
-        "id": "3", 
+        "id": "1", 
         "title": "Schedule", 
-        "url": "https://github.com/bronelius/AppData/blob/main/images/FlagGarden.jpg?raw=true",
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/FlagGarden.jpg?raw=true",
         "body": "In the Air, Main stage, Memorial Flag Field, Mid-way" 
-    },
+    }
+  ],
+  "article4": [
     { 
-        "id": "4", 
+        "id": "1", 
         "title": "Sponsors", 
-        "url": "https://github.com/bronelius/AppData/blob/main/images/HotAirBallooAmericanFlag.jpeg?raw=true",
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/HotAirBallooAmericanFlag.jpeg?raw=true",
         "body": "List of Sponsors" 
     }
   ]
