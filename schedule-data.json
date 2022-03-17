@@ -1,7 +1,7 @@
 {
   "title": "Memorial Balloon Festival",
   "description": "First Fruits Farm Memorial Balloon Festival",
-  "In The Air": [
+  "InTheAir": [
     { 
         "id": "1", 
         "title": "Balloon Event 1",
@@ -19,7 +19,7 @@
       "body": "Description of event goes here."
     }
   ],
-  "Main Stage": [
+  "MainStage": [
     { 
         "id": "1", 
         "title": "Singer 1", 
