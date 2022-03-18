@@ -1,10 +1,11 @@
 {
   "title": "Memorial Balloon Festival",
   "description": "First Fruits Farm Memorial Balloon Festival",
-  "InTheAir": [
+  "events": [
     { 
         "id": "1", 
         "title": "Balloon Event 1",
+        "category": "In The Air",
         "date": "3/17/2022",
         "time": "11:00 AM",
         "pic": "NA",
@@ -13,42 +14,43 @@
     { 
       "id": "2", 
       "title": "Balloon Event 2",
+      "category": "In The Air",
       "date": "3/17/2022",
       "time": "11:00 AM",
       "pic": "NA",
       "body": "Description of event goes here."
-    }
-  ],
-  "MainStage": [
+    },
     { 
-        "id": "1", 
+        "id": "3", 
         "title": "Singer 1", 
+        "category": "Main Stage",
         "date": "3/17/2022",
         "time": "11:00 AM",
         "pic": "NA",
         "body": "Description of event goes here."
     },
     { 
-      "id": "2", 
+      "id": "4", 
       "title": "Singer 2", 
-      "date": "3/17/2022",
-      "time": "11:00 AM",
-      "pic": "NA",
-      "body": "Description of event goes here."
-  }
-  ],
-  "Mid-Way": [
-    { 
-      "id": "1", 
-      "title": "Midway 1", 
+      "category": "Main Stage",
       "date": "3/17/2022",
       "time": "11:00 AM",
       "pic": "NA",
       "body": "Description of event goes here."
     },
     { 
-      "id": "2", 
+      "id": "5", 
+      "title": "Midway 1", 
+      "category": "Mid-Way",
+      "date": "3/17/2022",
+      "time": "11:00 AM",
+      "pic": "NA",
+      "body": "Description of event goes here."
+    },
+    { 
+      "id": "6", 
       "title": "Midway 2", 
+      "category": "Mid-Way",
       "date": "3/17/2022",
       "time": "11:00 AM",
       "pic": "NA",
