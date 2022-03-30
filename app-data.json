@@ -1,10 +1,36 @@
 {
+  "title": "Memorial Balloon Festival",
+  "description": "First Fruits Farm Memorial Balloon Festival",
   "article1": [
     { 
         "id": "1", 
         "title": "About", 
         "pic": "https://github.com/bronelius/AppData/blob/main/images/BalloonsS.jpg?raw=true",
         "body": "To remember our fallen military Heroes throughout the weekend in a real and deserving way via a safe and family-oriented event by creating a spirit of honor centered on Faith, Patriotism, Perseverance, Service, and Celebration."
+    }
+  ],
+  "article2": [
+    { 
+        "id": "1", 
+        "title": "Event Info", 
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/FireworksS.jpg?raw=true",
+        "body": "This festival is an all-outdoor event on a live working farm. We feature open pasture, lakes, and ponds connected by dirt, gravel, and grass roads. The roads feature all the bumps and holes and divots one should expect on a farm. There are no paved or smooth roads or pastures."
+    }
+  ],
+  "article3": [
+    { 
+        "id": "1", 
+        "title": "Schedule", 
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/FlagGardenS.jpg?raw=true",
+        "body": "In the Air, Main stage, Memorial Flag Field, Mid-way" 
+    }
+  ],
+  "article4": [
+    { 
+        "id": "1", 
+        "title": "Home", 
+        "pic": "https://github.com/bronelius/AppData/blob/main/images/HotAirBallooAmericanFlagS.jpeg?raw=true",
+        "body": "MEMORIAL DAY WEEKEND - MAY 27TH-30TH 2022 First Fruits Farm Memorial Balloon Festival" 
     }
   ]
 }
