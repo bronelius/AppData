@@ -1,8 +1,10 @@
-[
-    {
+{
+  "article1": [
+    { 
         "id": "1", 
         "title": "About", 
         "pic": "https://github.com/bronelius/AppData/blob/main/images/BalloonsS.jpg?raw=true",
         "body": "To remember our fallen military Heroes throughout the weekend in a real and deserving way via a safe and family-oriented event by creating a spirit of honor centered on Faith, Patriotism, Perseverance, Service, and Celebration."
-    },
-]
+    }
+  ]
+}
