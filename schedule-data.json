@@ -3,58 +3,417 @@
   "description": "First Fruits Farm Memorial Balloon Festival",
   "events": [
     { 
-        "id": "1", 
-        "title": "Balloon Event 1",
-        "category": "In The Air",
-        "date": "3/17/2022",
-        "time": "11:00 AM",
-        "pic": "NA",
-        "body": "Description of event goes here."
+      "id": "1", 
+      "title": "Festival Site Opens to Public",
+      "category": "General",
+      "date": "May 27, 2022",
+      "time": "2:00 PM"
     },
     { 
       "id": "2", 
-      "title": "Balloon Event 2",
-      "category": "In The Air",
-      "date": "3/17/2022",
-      "time": "11:00 AM",
-      "pic": "NA",
-      "body": "Description of event goes here."
+      "title": "Canines in the Clouds Dog Show",
+      "category": "Mid-Way",
+      "date": "May 27, 2022",
+      "time": "3:00 PM"
     },
     { 
-        "id": "3", 
-        "title": "Singer 1", 
-        "category": "Main Stage",
-        "date": "3/17/2022",
-        "time": "11:00 AM",
-        "pic": "NA",
-        "body": "Description of event goes here."
+      "id": "3", 
+      "title": "Tommy Nieman", 
+      "category": "Main Stage",
+      "date": "May 27, 2022",
+      "time": "3:45 PM"
     },
     { 
       "id": "4", 
-      "title": "Singer 2", 
+      "title": "Opening Ceremonies", 
       "category": "Main Stage",
-      "date": "3/17/2022",
-      "time": "11:00 AM",
-      "pic": "NA",
-      "body": "Description of event goes here."
+      "date": "May 27, 2022",
+      "time": "5:00 PM"
     },
     { 
       "id": "5", 
-      "title": "Midway 1", 
-      "category": "Mid-Way",
-      "date": "3/17/2022",
-      "time": "11:00 AM",
-      "pic": "NA",
-      "body": "Description of event goes here."
+      "title": "RC Plane Exhibition", 
+      "category": "In The Air",
+      "date": "May 27, 2022",
+      "time": "5:45 PM"
     },
     { 
       "id": "6", 
-      "title": "Midway 2", 
+      "title": "SAJASO", 
+      "category": "Main Stage",
+      "date": "May 27, 2022",
+      "time": "5:45 PM"
+    },
+    { 
+      "id": "7", 
+      "title": "Tethered Balloon Rides", 
+      "category": "In The Air",
+      "date": "May 27, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "8", 
+      "title": "Balloon Mass Ascension", 
       "category": "Mid-Way",
-      "date": "3/17/2022",
-      "time": "11:00 AM",
-      "pic": "NA",
-      "body": "Description of event goes here."
+      "date": "May 27, 2022",
+      "time": "6:30 PM"
+    },
+    { 
+      "id": "9", 
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "May 27, 2022",
+      "time": "6:40 PM"
+    },
+    { 
+      "id": "10", 
+      "title": "Tommy Nieman Band", 
+      "category": "Main Stage",
+      "date": "May 27, 2022",
+      "time": "7:15 PM"
+    },
+    { 
+      "id": "11", 
+      "title": "House Music", 
+      "category": "Main Stage",
+      "date": "May 27, 2022",
+      "time": "8:15 PM"
+    },
+    { 
+      "id": "12", 
+      "title": "General", 
+      "category": "Main Stage",
+      "date": "May 27, 2022",
+      "time": "8:20 PM"
+    },
+    { 
+      "id": "13", 
+      "title": "Hot Air Balloon Glow", 
+      "category": "Mid-Way",
+      "date": "May 27, 2022",
+      "time": "8:45 PM"
+    },
+    { 
+      "id": "14", 
+      "title": "Fireworks Show", 
+      "category": "In The Air",
+      "date": "May 27, 2022",
+      "time": "9:15 PM"
+    },
+    { 
+      "id": "15", 
+      "title": "Festival Site Closes", 
+      "category": "General",
+      "date": "May 27, 2022",
+      "time": "10:00 PM"
+    },
+    { 
+      "id": "16", 
+      "title": "Festival Opens to the Public", 
+      "category": "General",
+      "date": "May 28, 2022",
+      "time": "12:00 PM"
+    },
+    { 
+      "id": "17", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "2:00 PM"
+    },
+    { 
+      "id": "18", 
+      "title": "Rae Radick Band", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "2:30 PM"
+    },
+    { 
+      "id": "19", 
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "May 28, 2022",
+      "time": "3:00 PM"
+    },
+    { 
+      "id": "20", 
+      "title": "Hot Air Balloon Pilot Meet & Greet/Basket Display", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "3:00 PM"
+    },
+    { 
+      "id": "21", 
+      "title": "American Bombshells", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "3:15 PM"
+    },
+    { 
+      "id": "22", 
+      "title": "NCSU Pipes & Drums", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "3:45 PM"
+    },
+    { 
+      "id": "23", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "4:00 PM"
+    },
+    { 
+      "id": "24", 
+      "title": "Rae Radick Band", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "4:30 PM"
+    },
+    { 
+      "id": "25", 
+      "title": "Letters From Home Military Tribute Group", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "5:10 PM"
+    },
+    { 
+      "id": "26", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "27", 
+      "title": "Tethered Balloon Rides", 
+      "category": "In The Air",
+      "date": "May 28, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "28", 
+      "title": "American Bombshells", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "6:20 PM"
+    },
+    { 
+      "id": "29", 
+      "title": "Balloon Mass Ascension", 
+      "category": "In The Air",
+      "date": "May 28, 2022",
+      "time": "6:30 PM"
+    },
+    { 
+      "id": "30", 
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "May 28, 2022",
+      "time": "6:45 PM"
+    },
+    { 
+      "id": "31", 
+      "title": "Paige King Johnson", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "7:10 PM"
+    },
+    { 
+      "id": "32", 
+      "title": "Letters From Home Military Tribute Group", 
+      "category": "Main Stage",
+      "date": "May 28, 2022",
+      "time": "8:15 PM"
+    },
+    { 
+      "id": "33", 
+      "title": "Sunset", 
+      "category": "General",
+      "date": "May 28, 2022",
+      "time": "8:20 PM"
+    },
+    { 
+      "id": "34", 
+      "title": "Hot Air Balloon Glow", 
+      "category": "Mid-Way",
+      "date": "May 28, 2022",
+      "time": "8:45 AM"
+    },
+    { 
+      "id": "35", 
+      "title": "Fireworks Show", 
+      "category": "In The Air",
+      "date": "May 28, 2022",
+      "time": "9:15 PM"
+    },
+    { 
+      "id": "36", 
+      "title": "Festival Site Closes", 
+      "category": "General",
+      "date": "May 28, 2022",
+      "time": "10:00 PM"
+    },
+    { 
+      "id": "37",
+      "title": "Festival Opens to the Public", 
+      "category": "General",
+      "date": "May 29, 2022",
+      "time": "12:00 PM"
+    },
+    { 
+      "id": "38", 
+      "title": "PRAISE & WORSHIP w/Tommy Niemans Band", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "1:30 PM"
+    },
+    { 
+      "id": "39", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "2:00 PM"
+    },
+    { 
+      "id": "40", 
+      "title": "Hot Air Balloon Pilot Meet & Greet/Basket Display", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "3:00 PM"
+    },
+    { 
+      "id": "41", 
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "May 29, 2022",
+      "time": "3:00 PM"
+    },
+    { 
+      "id": "42", 
+      "title": "American Bombshells", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "3:00 PM"
+    },
+    { 
+      "id": "43", 
+      "title": "NCSU Pipes & Drums", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "3:45 PM"
+    },
+    { 
+      "id": "44", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "4:00 PM"
+    },
+    { 
+      "id": "45", 
+      "title": "Rae Radick Band", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "5:00 PM"
+    },
+    { 
+      "id": "46", 
+      "title": "RC Plane Exhibition", 
+      "category": "In The Air",
+      "date": "May 29, 2022",
+      "time": "5:30 PM"
+    },
+    { 
+      "id": "47", 
+      "title": "American Bombshells", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "48", 
+      "title": "Canines in the Clouds Dog Show", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "49", 
+      "title": "Tethered Balloon Rides", 
+      "category": "In The Air",
+      "date": "May 29, 2022",
+      "time": "6:00 PM"
+    },
+    { 
+      "id": "50", 
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "May 29, 2022",
+      "time": "6:30 PM"
+    },
+    { 
+      "id": "51", 
+      "title": "One For The People", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "7:00 PM"
+    },
+    { 
+      "id": "52", 
+      "title": "Rae Radick Band", 
+      "category": "Main Stage",
+      "date": "May 29, 2022",
+      "time": "8:15 PM"
+    },
+    { 
+      "id": "53", 
+      "title": "Sunset", 
+      "category": "General",
+      "date": "May 29, 2022",
+      "time": "8:20 PM"
+    },
+    { 
+      "id": "54", 
+      "title": "Hot Air Balloon Glow", 
+      "category": "Mid-Way",
+      "date": "May 29, 2022",
+      "time": "8:45 PM"
+    },
+    { 
+      "id": "55", 
+      "title": "Fireworks Show", 
+      "category": "In The Air",
+      "date": "May 29, 2022",
+      "time": "9:15 PM"
+    },
+    { 
+      "id": "56", 
+      "title": "Festival Site Closes", 
+      "category": "General",
+      "date": "May 29, 2022",
+      "time": "10:00 PM"
+    },
+    { 
+      "id": "57", 
+      "title": "Festival Site Opens to Public", 
+      "category": "General",
+      "date": "May 30, 2022",
+      "time": "10:00 AM"
+    },
+    { 
+      "id": "58", 
+      "title": "2022 Event Closing Ceremony", 
+      "category": "General",
+      "date": "May 30, 2022",
+      "time": "11:30 AM"
+    },
+    { 
+      "id": "59", 
+      "title": "Festival Site Closes", 
+      "category": "General",
+      "date": "May 30, 2022",
+      "time": "2:00 PM"
     }
   ]
 }
