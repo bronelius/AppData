@@ -6,245 +6,189 @@
       "id": "1", 
       "title": "Festival Site Opens to Public",
       "category": "General",
-      "date": "May 27",
+      "date": "June 3",
       "time": "3:30 PM"
     },
     { 
       "id": "2", 
       "title": "Canines in the Clouds Dog Show",
       "category": "Mid-Way",
-      "date": "May 27",
+      "date": "June 3",
       "time": "4:15 PM"
     },
     { 
       "id": "3", 
       "title": "Opening Ceremonies", 
       "category": "Main Stage",
-      "date": "May 27",
+      "date": "June 3",
       "time": "4:30 PM"
     },
     { 
       "id": "4", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
-      "date": "May 27",
+      "date": "June 3",
       "time": "4:45 PM"
     },
     { 
       "id": "5", 
-      "title": "Johnny Orr", 
-      "category": "Main Stage",
-      "date": "May 27",
-      "time": "5:00 PM"
+      "title": "Tethered Balloon Rides", 
+      "category": "In The Air",
+      "date": "June 3",
+      "time": "6:00 PM"
     },
     { 
       "id": "6", 
-      "title": "Tethered Balloon Rides", 
-      "category": "In The Air",
-      "date": "May 27",
-      "time": "6:00 PM"
+      "title": "Canines in the Clouds Dog Show",
+      "category": "Mid-Way",
+      "date": "June 3",
+      "time": "6:15 PM"
     },
     { 
       "id": "7", 
-      "title": "Honor & Remember Flag Ceremony", 
-      "category": "Main Stage",
-      "date": "May 27",
-      "time": "6:10 PM"
+      "title": "Balloon Mass Ascension", 
+      "category": "Mid-Way",
+      "date": "June 3",
+      "time": "6:30 PM"
     },
     { 
       "id": "8", 
-      "title": "Canines in the Clouds Dog Show",
+      "title": "2.2 Mile End Veteran Suicide Run/Walk",
       "category": "Mid-Way",
-      "date": "May 27",
-      "time": "6:15 PM"
+      "date": "June 3",
+      "time": "7:00 PM"
     },
     { 
       "id": "9", 
-      "title": "Balloon Mass Ascension", 
-      "category": "Mid-Way",
-      "date": "May 27",
-      "time": "6:30 PM"
+      "title": "Memorial Ceremony", 
+      "category": "Main Stage",
+      "date": "June 3",
+      "time": "7:45 PM"
     },
     { 
       "id": "10", 
-      "title": "Paige King Johnson", 
-      "category": "Main Stage",
-      "date": "May 27",
-      "time": "6:30 PM"
+      "title": "Canines in the Clouds Dog Show",
+      "category": "Mid-Way",
+      "date": "June 3",
+      "time": "8:15 PM"
     },
     { 
       "id": "11", 
-      "title": "2.2 Mile End Veteran Suicide Run/Walk",
-      "category": "Mid-Way",
-      "date": "May 27",
-      "time": "7:00 PM"
+      "title": "All Veterans Group Parachute Team", 
+      "category": "In The Air",
+      "date": "June 3",
+      "time": "9:00 PM"
     },
     { 
       "id": "12", 
-      "title": "Memorial Ceremony", 
-      "category": "Main Stage",
-      "date": "May 27",
-      "time": "7:45 PM"
+      "title": "Hot Air Balloon Glow", 
+      "category": "Mid-Way",
+      "date": "June 3",
+      "time": "9:05 PM"
     },
     { 
       "id": "13", 
-      "title": "Sumthin 4 Tha People Band", 
-      "category": "Main Stage",
-      "date": "May 27",
-      "time": "8:00 PM"
+      "title": "Fireworks Show", 
+      "category": "In The Air",
+      "date": "June 3",
+      "time": "9:25 PM"
     },
     { 
       "id": "14", 
-      "title": "Canines in the Clouds Dog Show",
-      "category": "Mid-Way",
-      "date": "May 27",
-      "time": "8:15 PM"
-    },
-    { 
-      "id": "15", 
-      "title": "All Veterans Group Parachute Team", 
-      "category": "In The Air",
-      "date": "May 27",
-      "time": "9:00 PM"
-    },
-    { 
-      "id": "16", 
-      "title": "Hot Air Balloon Glow", 
-      "category": "Mid-Way",
-      "date": "May 27",
-      "time": "9:05 PM"
-    },
-    { 
-      "id": "17", 
-      "title": "Fireworks Show", 
-      "category": "In The Air",
-      "date": "May 27",
-      "time": "9:25 PM"
-    },
-    { 
-      "id": "18", 
       "title": "Festival Site Closes", 
       "category": "General",
-      "date": "May 27",
+      "date": "June 3",
       "time": "10:00 PM"
     },
     { 
-      "id": "19", 
+      "id": "15", 
       "title": "Festival Site Opens to Public", 
       "category": "General",
-      "date": "May 28",
+      "date": "June 4",
       "time": "3:30 PM"
     },
     { 
-      "id": "20", 
+      "id": "16", 
       "title": "Canines in the Clouds Dog Show", 
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "4:15 PM"
     },
     { 
-      "id": "21", 
+      "id": "17", 
       "title": "Opening Ceremonies", 
       "category": "Main Stage",
-      "date": "May 28",
+      "date": "June 4",
       "time": "4:30 PM"
     },
     { 
-      "id": "22", 
+      "id": "18", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
-      "date": "May 28",
+      "date": "June 4",
       "time": "4:45 PM"
     },
     { 
-      "id": "23", 
-      "title": "Johnny Orr", 
-      "category": "Main Stage",
-      "date": "May 28",
-      "time": "5:00 PM"
-    },
-    { 
-      "id": "24", 
+      "id": "19", 
       "title": "Tethered Balloon Rides", 
       "category": "In The Air",
-      "date": "May 28",
+      "date": "June 4",
       "time": "6:00 PM"
     },
     { 
-      "id": "25", 
+      "id": "20", 
       "title": "Canines in the Clouds Dog Show",
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "6:15 PM"
     },
     { 
-      "id": "26", 
-      "title": "Sumthin 4 Tha People Band", 
-      "category": "Main Stage",
-      "date": "May 28",
-      "time": "6:30 PM"
-    },
-    { 
-      "id": "27", 
+      "id": "21", 
       "title": "Balloon Mass Ascension", 
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "6:30 PM"
     },
     { 
-      "id": "28", 
+      "id": "22", 
       "title": "2.2 Mile End Veteran Suicide Run/Walk",
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "7:00 PM"
     },
     { 
-      "id": "29", 
-      "title": "Memorial Ceremony", 
-      "category": "Main Stage",
-      "date": "May 28",
-      "time": "7:45 PM"
-    },
-    { 
-      "id": "30", 
-      "title": "Paige King Johnson", 
-      "category": "Main Stage",
-      "date": "May 28",
-      "time": "8:00 PM"
-    },
-    { 
-      "id": "31", 
+      "id": "23", 
       "title": "Canines in the Clouds Dog Show",
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "8:15 PM"
     },
     { 
-      "id": "32", 
+      "id": "24", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
-      "date": "May 28",
+      "date": "June 4",
       "time": "9:00 PM"
     },
     { 
-      "id": "33", 
+      "id": "25", 
       "title": "Hot Air Balloon Glow", 
       "category": "Mid-Way",
-      "date": "May 28",
+      "date": "June 4",
       "time": "9:05 PM"
     },
     { 
-      "id": "34", 
+      "id": "26", 
       "title": "Fireworks Show", 
       "category": "In The Air",
-      "date": "May 28",
+      "date": "June 4",
       "time": "9:25 PM"
     },
     { 
-      "id": "35", 
+      "id": "27", 
       "title": "Festival Site Closes", 
       "category": "General",
-      "date": "May 28",
+      "date": "June 4",
       "time": "10:00 PM"
     }
   ]
