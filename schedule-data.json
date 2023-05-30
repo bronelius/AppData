@@ -11,7 +11,7 @@
     },
     { 
       "id": "2", 
-      "title": "Canines in the Clouds Dog Show",
+      "title": "DareDevil Dogs",
       "category": "Mid-Way",
       "date": "June 3",
       "time": "4:15 PM"
@@ -46,7 +46,7 @@
     },
     { 
       "id": "7", 
-      "title": "Canines in the Clouds Dog Show",
+      "title": "DareDevil Dogs",
       "category": "Mid-Way",
       "date": "June 3",
       "time": "6:15 PM"
@@ -67,139 +67,160 @@
     },
     { 
       "id": "10", 
+      "title": "The Tobacco Road Band",
+      "category": "Main Stage",
+      "date": "June 3",
+      "time": "7:00 PM"
+    },
+    { 
+      "id": "11", 
       "title": "Memorial Ceremony", 
       "category": "Main Stage",
       "date": "June 3",
       "time": "7:45 PM"
     },
     { 
-      "id": "11", 
-      "title": "Canines in the Clouds Dog Show",
+      "id": "12", 
+      "title": "DareDevil Dogs",
       "category": "Mid-Way",
       "date": "June 3",
       "time": "8:15 PM"
     },
     { 
-      "id": "12", 
+      "id": "13", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
       "date": "June 3",
       "time": "9:00 PM"
     },
     { 
-      "id": "13", 
+      "id": "14", 
       "title": "Hot Air Balloon Glow", 
       "category": "Mid-Way",
       "date": "June 3",
       "time": "9:05 PM"
     },
     { 
-      "id": "14", 
+      "id": "15", 
       "title": "Fireworks Show", 
       "category": "In The Air",
       "date": "June 3",
       "time": "9:25 PM"
     },
     { 
-      "id": "15", 
+      "id": "16", 
       "title": "Festival Site Closes", 
       "category": "General",
       "date": "June 3",
       "time": "10:00 PM"
     },
     { 
-      "id": "16", 
+      "id": "17", 
       "title": "Festival Site Opens to Public", 
       "category": "General",
       "date": "June 4",
       "time": "3:30 PM"
     },
     { 
-      "id": "17", 
-      "title": "Canines in the Clouds Dog Show", 
+      "id": "18", 
+      "title": "DareDevil Dogs", 
       "category": "Mid-Way",
       "date": "June 4",
       "time": "4:15 PM"
     },
     { 
-      "id": "18", 
+      "id": "19", 
       "title": "Opening Ceremonies", 
       "category": "Main Stage",
       "date": "June 4",
       "time": "4:30 PM"
     },
     { 
-      "id": "19", 
+      "id": "20", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
       "date": "June 4",
       "time": "4:45 PM"
     },
     { 
-      "id": "20", 
+      "id": "21", 
       "title": "Johnny Orr", 
       "category": "Main Stage",
       "date": "June 4",
       "time": "5:00 PM"
     },
     { 
-      "id": "21", 
+      "id": "22", 
       "title": "Tethered Balloon Rides", 
       "category": "In The Air",
       "date": "June 4",
       "time": "6:00 PM"
     },
     { 
-      "id": "22", 
-      "title": "Canines in the Clouds Dog Show",
+      "id": "23", 
+      "title": "DareDevil Dogs",
       "category": "Mid-Way",
       "date": "June 4",
       "time": "6:15 PM"
     },
     { 
-      "id": "23", 
+      "id": "24", 
       "title": "Balloon Mass Ascension", 
       "category": "Mid-Way",
       "date": "June 4",
       "time": "6:30 PM"
     },
     { 
-      "id": "24", 
+      "id": "25", 
       "title": "2.2 Mile End Veteran Suicide Run/Walk",
       "category": "Mid-Way",
       "date": "June 4",
       "time": "7:00 PM"
     },
     { 
-      "id": "25", 
-      "title": "Canines in the Clouds Dog Show",
+      "id": "26", 
+      "title": "Bryan's Hill Band",
+      "category": "Main Stage",
+      "date": "June 4",
+      "time": "7:00 PM"
+    },
+    { 
+      "id": "27", 
+      "title": "Memorial Ceremony", 
+      "category": "Main Stage",
+      "date": "June 4",
+      "time": "7:45 PM"
+    },
+    { 
+      "id": "28", 
+      "title": "DareDevil Dogs",
       "category": "Mid-Way",
       "date": "June 4",
       "time": "8:15 PM"
     },
     { 
-      "id": "26", 
+      "id": "29", 
       "title": "All Veterans Group Parachute Team", 
       "category": "In The Air",
       "date": "June 4",
       "time": "9:00 PM"
     },
     { 
-      "id": "27", 
+      "id": "30", 
       "title": "Hot Air Balloon Glow", 
       "category": "Mid-Way",
       "date": "June 4",
       "time": "9:05 PM"
     },
     { 
-      "id": "28", 
+      "id": "31", 
       "title": "Fireworks Show", 
       "category": "In The Air",
       "date": "June 4",
       "time": "9:25 PM"
     },
     { 
-      "id": "29", 
+      "id": "32", 
       "title": "Festival Site Closes", 
       "category": "General",
       "date": "June 4",
